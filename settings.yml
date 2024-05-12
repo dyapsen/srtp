@@ -1,0 +1,6 @@
+page_num: 783
+save_res_path: ./image/image_grey/test
+slice_name: ./image/image_slice/test
+surf_name: ./image/image_surf/test
+video_name: ./video/video_input/test.mp4
+video_out_path: ./video/video_output/test.mp4

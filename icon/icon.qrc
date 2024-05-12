@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="svg">
+    <file>bofang.svg</file>
+    <file>zanting.svg</file>
+    <file>quxian_white.svg</file>
+    <file>quxian_purple.svg</file>
+    <file>zhongfang-purple.svg</file>
+    <file>zhongfang-white.svg</file>
+    <file>guanbi_white.svg</file>
+    <file>zuidahua_white.svg</file>
+    <file>zuixiaohua_white.svg</file>
+    <file>guanbi_purple.svg</file>
+    <file>zuidahua_purple.svg</file>
+    <file>zuixiaohua_purple.svg</file>
+    <file>ellipse_white.svg</file>
+    <file>line_white.svg</file>
+    <file>rect_white.svg</file>
+    <file>wenben_white.svg</file>
+    <file>ellipse_purple.svg</file>
+    <file>celiang_white.svg</file>
+    <file>celiang_purple.svg</file>
+    <file>line_purple.svg</file>
+    <file>rect_purple.svg</file>
+    <file>wenben_purple.svg</file>
+    <file>mode_white.svg</file>
+    <file>mode_purple.svg</file>
+    <file>wenjian-white.svg</file>
+    <file>wenjian-purple.svg</file>
+    <file>folderOpen.svg</file>
+    <file>maxwin.svg</file>
+    <file>minwin.svg</file>
+    <file>namicailiao.svg</file>
+  </qresource>
+</RCC>
